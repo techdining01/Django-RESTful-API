@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'api',
     'api2',
     'rest_framework.authtoken',
+    'messages_app',
+
 ]
 
 MIDDLEWARE = [
